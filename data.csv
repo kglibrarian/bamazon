@@ -1,0 +1,10 @@
+item_id,product_name,department_name,price,stock_quantity
+1,camera,electronics,100.00,120
+2,laptop,electronics,1200.00,50
+3,HALO,"Video Games",29.98,34
+4,"Sour Patch Kids","Food and Drink",4.29,100
+5,Jorts,Apparel,3.56,45
+6,"Mesh Shirt",Apparel,45.67,8
+7,"Lion King",Films,19.99,298
+8,Monoply,"Board Games",30.50,3429
+9,"Guess Who?","Board Games",19.95,1
