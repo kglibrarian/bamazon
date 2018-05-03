@@ -1,18 +1,18 @@
 ### bamazon
 
-##About
+## About
 Bamazon is an Amazon.com-like storefront. The app takes in orders from customers and deplete stock from the store's inventory which is stored in an SQL database. 
 
-##Note
+## Note
 
 Make sure you use node's npm init function to download any dependencies. This app uses inquirer, mysql, and console.table
 
-##Instructions
+## Instructions
 
-#Download MySQL workbench. 
+# Download MySQL workbench. 
 Remember to write down your username and password. If you don't remember, go to Server --> Users and Privileges. You will need to enter these into the customer.js file. 
 
-##Create the database: bamazon_db in MySQL Workbench
+## Create the database: bamazon_db in MySQL Workbench
 1. In MySQL workbench click on the + button to create a new MySQL tab for executing queries. 
 2. In a text editor (i.e. Visual Studio) open the Schema.sql file. Copy and paste the code into MySQL Workbench tab. Click on the lightning bolt to run the code. 
 
