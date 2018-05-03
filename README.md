@@ -9,10 +9,10 @@ Make sure you use node's npm init function to download any dependencies. This ap
 
 ## Instructions
 
-# Download MySQL workbench. 
+### Download MySQL workbench. 
 Remember to write down your username and password. If you don't remember, go to Server --> Users and Privileges. You will need to enter these into the customer.js file. 
 
-## Create the database: bamazon_db in MySQL Workbench
+### Create the database: bamazon_db in MySQL Workbench
 1. In MySQL workbench click on the + button to create a new MySQL tab for executing queries. 
 2. In a text editor (i.e. Visual Studio) open the Schema.sql file. Copy and paste the code into MySQL Workbench tab. Click on the lightning bolt to run the code. 
 
@@ -22,11 +22,11 @@ Remember to write down your username and password. If you don't remember, go to 
 
 ![MySQL Workbench](https://raw.githubusercontent.com/kglibrarian/bamazon/master/images/bamazon8.PNG)
 
-# You should now have a completed database called bamazon_db
+#### You should now have a completed database called bamazon_db
 
 ![MySQL Workbench](https://raw.githubusercontent.com/kglibrarian/bamazon/master/images/bamazon9.PNG)
 
-## Open the JavaScript file in TextEditor and Use the Command Line
+### Open the JavaScript file in TextEditor and Use the Command Line
 #Make sure you use node's npm init function to download any dependencies. This app uses inquirer, mysql, and console.table.
 
 1. Open the bamazon files in a text editor, such as Visual Studio
