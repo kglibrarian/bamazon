@@ -5,7 +5,7 @@ Bamazon is an Amazon.com-like storefront. The app takes in orders from customers
 
 ## Note
 
-Make sure you use node's npm init function to download any dependencies. This app uses inquirer, mysql, and console.table
+Make sure you use the npm package manager to install any dependencies (i.e. "npm init"). This app uses these packages: inquirer, mysql, and console.table
 
 ## Instructions
 
@@ -27,7 +27,7 @@ Remember to write down your username and password. If you don't remember, go to 
 ![MySQL Workbench](https://raw.githubusercontent.com/kglibrarian/bamazon/master/images/bamazon9.PNG)
 
 ### Open the JavaScript file in TextEditor and Use the Command Line
-#### Make sure you use node's npm init function to download any dependencies. This app uses inquirer, mysql, and console.table.
+#### Make sure you use the npm package manager to install any dependencies (i.e. "npm init"). This app uses these packages: inquirer, mysql, and console.table
 
 1. Open the bamazon files in a text editor, such as Visual Studio. In the bamazon.js file enter your MySQL Workbench username and password in the connection variable at the top of the page. 
 
